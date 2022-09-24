@@ -1,0 +1,4 @@
+
+1) install below library using cmd:
+pip install robotframework-appiumlibrary
+
